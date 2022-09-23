@@ -1,6 +1,6 @@
 #include "binary_trees.h"
 /**
- * 2-binary_tree_insert_right - create a new node at the right child
+ * binary_tree_insert_right - create a new node at the right child
  * @parent: pointer to parent node
  * @value: key
  * Return: Pointer of the new node
